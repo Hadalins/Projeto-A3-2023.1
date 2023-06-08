@@ -1,0 +1,4 @@
+insert INTO
+login(nome,login,senha)
+VALUES
+('Administrador','Admin','Admin@2023');

@@ -1,0 +1,8 @@
+create database projetoa3;
+use projetoa3;
+create table login(
+    nome varchar(300),
+    login varchar(100),
+    senha varchar(100),
+primary key (login)
+);
